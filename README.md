@@ -17,7 +17,6 @@ Technologies I have worked with ↓
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bello2288&show_icons=true&theme=gruvbox" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bello2288&theme=gruvbox" />
 
 You can reach me sending me an email: rony1daniel2reyes3lopez4@gmail.com
