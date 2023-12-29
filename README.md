@@ -16,6 +16,11 @@ Technologies I have worked with ↓
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%23FF0000.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bello2288&theme=gruvbox" />
 
