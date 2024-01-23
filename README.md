@@ -24,4 +24,4 @@ Technologies I have worked with ↓
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bello2288&theme=gruvbox" />
 
-You can reach me sending me an email: rony1daniel2reyes3lopez4@gmail.com
+You can reach me sending me an email: rony.reyes.web@gmail.com
