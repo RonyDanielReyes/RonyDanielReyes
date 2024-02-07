@@ -1,8 +1,9 @@
 ### Hi there 👋 I am Rony Reyes...
 
 - I have recently Graduated from Lighthouse Labs, I am looking for a new role in Software Development where I can continue developping my skills in Javascript, SQL, ReactJs and HTML.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/rony-daniel-reyes-lopez-41b1a9235) 
-- Check out my resume on [flowcv](https://flowcv.com/resume/4fvmpvtebh)
+- Check out a game we built with my team as final project for graduation [Eternal combat](https://eternal-combat.netlify.app)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/rony-daniel-reyes-lopez-41b1a9235)
+- check out my website built with wordpress [Worpress](https://ronyreyesweb.wordpress.com) 
 
 Technologies I have worked with ↓
 
