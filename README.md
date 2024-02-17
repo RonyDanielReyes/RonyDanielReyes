@@ -26,12 +26,9 @@ Technologies I have worked with ↓
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyDanielReyes&theme=gruvbox" />
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bello2288&show_icons=true&theme=gruvbox)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RonyDanielReyes&show_icons=true&theme=gruvbox)
 
-![Your GitHub Contribution Graph](https://github.com/Bello2288/Bello2288/graphs/contributors)
-
-![Your Recent Activity](https://github.com/users/Bello2288/contributions)
-
+![Your GitHub Contribution Graph](https://github.com/RonyDanielReyes/Bello2288/graphs/contributors)
 
 
 You can reach me sending me an email: rony.reyes.web@gmail.com
