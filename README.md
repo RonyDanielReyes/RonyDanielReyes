@@ -24,7 +24,7 @@ Technologies I have worked with ↓
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bello2288&theme=gruvbox" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyDanielReyes&theme=gruvbox" />
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bello2288&show_icons=true&theme=gruvbox)
 
