@@ -30,5 +30,17 @@ Technologies I have worked with ↓
 
 ![Your GitHub Contribution Graph](https://github.com/RonyDanielReyes/RonyDanielReyes/graphs/contributors)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonyDanielReyes&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=RonyDanielReyes)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RonyDanielReyes)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RonyDanielReyes&theme=github)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RonyDanielReyes)
+
+![GitHub Followers](https://img.shields.io/github/followers/RonyDanielReyes?style=social)
+
 
 You can reach me sending me an email: rony.reyes.web@gmail.com
