@@ -25,5 +25,7 @@ Technologies I have worked with ↓
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bello2288&theme=gruvbox" />
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bello2288&show_icons=true&theme=gruvbox)
+
 
 You can reach me sending me an email: rony.reyes.web@gmail.com
