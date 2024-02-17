@@ -28,7 +28,7 @@ Technologies I have worked with ↓
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RonyDanielReyes&show_icons=true&theme=gruvbox)
 
-![Your GitHub Contribution Graph](https://github.com/RonyDanielReyes/Bello2288/graphs/contributors)
+![Your GitHub Contribution Graph](https://github.com/RonyDanielReyes/RonyDanielReyes/graphs/contributors)
 
 
 You can reach me sending me an email: rony.reyes.web@gmail.com
