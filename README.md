@@ -26,6 +26,7 @@ Technologies I have worked with ↓
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyDanielReyes&theme=gruvbox" />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=RonyDanielReyes&theme=github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyDanielReyes&layout=compact" />
+
 
 You can reach me sending me an email: rony.reyes.web@gmail.com
